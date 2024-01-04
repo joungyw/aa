@@ -1,0 +1,12 @@
+package ex01;
+
+public class ㅁㅁㅁ {
+	   public int solution(int num1, int num2) {
+	        int answer = -1;
+	        return answer;
+	        
+	        int n1 = num1;
+	        int n2 = num2;
+	        System.out.println(n1+n2);
+	    }
+	}

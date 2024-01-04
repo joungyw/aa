@@ -1,0 +1,12 @@
+package ex01;
+
+public class ㅁㅁㅁ {
+
+	 public static void main(String[] arge){
+	        
+	        int num1 = 3;
+	        int num2 = 4;
+	        System.out.println(num1*num2);
+    }
+    }
+    
